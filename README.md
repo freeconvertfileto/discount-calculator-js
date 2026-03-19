@@ -2,7 +2,7 @@
 
 Calculate final prices after one or two stacked percentage discounts, with quick-preset buttons and savings amount display, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/calculators/discount-calculator
+**Live Demo:** https://file-converter-free.com/en/calculators/discount-calculator-online
 
 ## How It Works
 
